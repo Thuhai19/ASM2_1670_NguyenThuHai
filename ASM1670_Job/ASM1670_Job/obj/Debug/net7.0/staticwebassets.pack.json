@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ASM1670_Job.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASM1670_Job.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\1e49d451-5620-4806-a1a5-376089214326_people (2).jpg",
+      "PackagePath": "staticwebassets\\images\\1e49d451-5620-4806-a1a5-376089214326_people (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\45df4962-fbbe-48e1-bdd0-ae3819b43fa5_people (2).jpg",
+      "PackagePath": "staticwebassets\\images\\45df4962-fbbe-48e1-bdd0-ae3819b43fa5_people (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\9c023606-4b20-48d0-bd3a-f16a66920c77_Screenshot (1).png",
+      "PackagePath": "staticwebassets\\images\\9c023606-4b20-48d0-bd3a-f16a66920c77_Screenshot (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\b6471ecc-7650-46b0-9eb9-eb14dbc63834_260006114_1466057087186620_9178459840581005927_n.jpg",
+      "PackagePath": "staticwebassets\\images\\b6471ecc-7650-46b0-9eb9-eb14dbc63834_260006114_1466057087186620_9178459840581005927_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\bfcbe276-b98e-4a19-9fd5-436cb6c9c078_258844965_1466057387186590_401473634964651163_n.jpg",
+      "PackagePath": "staticwebassets\\images\\bfcbe276-b98e-4a19-9fd5-436cb6c9c078_258844965_1466057387186590_401473634964651163_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\d2593ff5-8e93-4037-bb74-ae579c0774f4_Screenshot 2024-04-11 234522.png",
+      "PackagePath": "staticwebassets\\images\\d2593ff5-8e93-4037-bb74-ae579c0774f4_Screenshot 2024-04-11 234522.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\e40bacee-0bec-4117-a054-02f7891e959c_Screenshot 2024-04-11 234522.png",
+      "PackagePath": "staticwebassets\\images\\e40bacee-0bec-4117-a054-02f7891e959c_Screenshot 2024-04-11 234522.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\e6200277-a7fd-4cfb-8929-ff25ada7d2af_Screenshot 2024-04-11 234522.png",
+      "PackagePath": "staticwebassets\\images\\e6200277-a7fd-4cfb-8929-ff25ada7d2af_Screenshot 2024-04-11 234522.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\f9c739b7-04c8-4223-9ba5-08987c3c1cb6_Screenshot 2024-04-11 234522.png",
+      "PackagePath": "staticwebassets\\images\\f9c739b7-04c8-4223-9ba5-08987c3c1cb6_Screenshot 2024-04-11 234522.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\images\\ffdcc716-1d87-44ff-b80d-0cd5a47888c2_260006114_1466057087186620_9178459840581005927_n.jpg",
+      "PackagePath": "staticwebassets\\images\\ffdcc716-1d87-44ff-b80d-0cd5a47888c2_260006114_1466057087186620_9178459840581005927_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ASM1670_Job.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ASM1670_Job.props",
+      "PackagePath": "build\\ASM1670_Job.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ASM1670_Job.props",
+      "PackagePath": "buildMultiTargeting\\ASM1670_Job.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ASM1670_Job.props",
+      "PackagePath": "buildTransitive\\ASM1670_Job.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

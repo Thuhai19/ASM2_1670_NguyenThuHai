@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|c:\\users\\admin\\downloads\\1670\\1670_gch1105_do xuan nguyen final\\1670_gch1105_do xuan nguyen\\asm1670_job\\asm1670_job\\asm1670_job\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|solutionrelative:asm1670_job\\controllers\\applicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|c:\\users\\admin\\downloads\\1670\\1670_gch1105_do xuan nguyen final\\1670_gch1105_do xuan nguyen\\asm1670_job\\asm1670_job\\asm1670_job\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|solutionrelative:asm1670_job\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|c:\\users\\admin\\downloads\\1670\\1670_gch1105_do xuan nguyen final\\1670_gch1105_do xuan nguyen\\asm1670_job\\asm1670_job\\asm1670_job\\views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|solutionrelative:asm1670_job\\views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|c:\\users\\admin\\downloads\\1670\\1670_gch1105_do xuan nguyen final\\1670_gch1105_do xuan nguyen\\asm1670_job\\asm1670_job\\asm1670_job\\views\\applications\\employerapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|solutionrelative:asm1670_job\\views\\applications\\employerapplication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|c:\\users\\admin\\downloads\\1670\\1670_gch1105_do xuan nguyen final\\1670_gch1105_do xuan nguyen\\asm1670_job\\asm1670_job\\asm1670_job\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBF652-FDAD-4829-8A95-14BD7D998B74}|ASM1670_Job\\ASM1670_Job.csproj|solutionrelative:asm1670_job\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 125,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Views\\Jobs\\Details.cshtml",
+              "RelativeDocumentMoniker": "ASM1670_Job\\Views\\Jobs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Views\\Jobs\\Details.cshtml",
+              "RelativeToolTip": "ASM1670_Job\\Views\\Jobs\\Details.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T01:47:30.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "ASM1670_Job\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Models\\Application.cs",
+              "RelativeToolTip": "ASM1670_Job\\Models\\Application.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:14:03.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Controllers\\ApplicationsController.cs",
+              "RelativeDocumentMoniker": "ASM1670_Job\\Controllers\\ApplicationsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Controllers\\ApplicationsController.cs",
+              "RelativeToolTip": "ASM1670_Job\\Controllers\\ApplicationsController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:05:29.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployerApplication.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Views\\Applications\\EmployerApplication.cshtml",
+              "RelativeDocumentMoniker": "ASM1670_Job\\Views\\Applications\\EmployerApplication.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Views\\Applications\\EmployerApplication.cshtml",
+              "RelativeToolTip": "ASM1670_Job\\Views\\Applications\\EmployerApplication.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T09:13:59.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "ASM1670_Job\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\1670\\1670_GCH1105_Do Xuan Nguyen final\\1670_GCH1105_Do Xuan Nguyen\\ASM1670_Job\\ASM1670_Job\\ASM1670_Job\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "ASM1670_Job\\Controllers\\JobsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T01:05:46.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
